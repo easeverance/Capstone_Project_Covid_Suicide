@@ -21,5 +21,5 @@
 # Exploratory Cleaning and Analyzing Data
 * I have started the process on analyzing and cleaning the data for future project use.
 
-![exploratorycleaning1]()
+![exploratorycleaning1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/Derek/markdownpics/exploratorycleaning1.PNG)
 
