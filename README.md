@@ -18,3 +18,8 @@
 
 ![harvarddata](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/Derek/markdownpics/harvarddata.PNG)
 
+# Exploratory Cleaning and Analyzing Data
+* I have started the process on analyzing and cleaning the data for future project use.
+
+![exploratorycleaning1]()
+
