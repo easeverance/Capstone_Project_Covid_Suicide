@@ -23,3 +23,10 @@
 
 ![exploratorycleaning1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/Derek/markdownpics/exploratorycleaning1.PNG)
 
+# Question (and Resources)
+* Why did the suicide rates during the lockdown of the pandemic (2020) decrease, but different demographic characteristics increased with different demographic characteristics (age, sex, and race). 
+* Use machine learning with data to try and find a correlation
+
+* Resources - resource_links_and_overall_question.docx - provides the articles and cites with discovering the question at hand, along with raw data tables.
+
+
