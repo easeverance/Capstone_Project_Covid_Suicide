@@ -33,7 +33,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * PostgreSQL
 * Heroku
 
-![]()
+![heroku_server](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/heroku_server.PNG)
 
 ### Machine Learning
 
