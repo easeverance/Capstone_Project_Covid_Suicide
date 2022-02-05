@@ -72,6 +72,10 @@ The team is comprised of only Derek and Elizabeth - therefore there is no assign
 
 ![create_table](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dependents_table.PNG)
 
+### Database Query
+
+![dependents_table](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dependents_data.PNG)
+
 
 For our analysis  we will be using several datasets merged into one table 'Dependents'. This table includes variables such as employment, housing, income,  education, weather.  The second table will be on Covid deaths in the United States.  These two tables will be loaded into python where they will be merged into one DataFrame.  The data will further be cleaned and preprocessed and then set up for machine learning training.  
  
