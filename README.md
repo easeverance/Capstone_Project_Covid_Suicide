@@ -89,4 +89,4 @@ For our analysis  we will be using several datasets merged into one table 'Depen
 ![]()
 
 
-![]()
+![model](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/Capture.PNG)
