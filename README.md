@@ -41,6 +41,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 * Tableau
 * GitHub
+* SeaBorn
 
 ## Segment 1: Sketch It Out
 
