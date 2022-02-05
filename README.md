@@ -90,3 +90,5 @@ For our analysis  we will be using several datasets merged into one table 'Depen
 
 
 ![model](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/Capture.PNG)
+
+Above you can see a sample machine learning taking one variable to test against covid deaths. Here the variable English-Speaker shows that there is not a correlation to the the number of deaths.   Additional dependents will be added to the regression to get a better understanding of what factors can be used as predictors. 
