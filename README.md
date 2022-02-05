@@ -35,7 +35,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 ### Machine Learning
 
-*SciKitLearn 
+* SciKitLearn 
 
 ### Dashboard
 
@@ -46,14 +46,14 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 The team is comprised of both Derek and Elizabeth - therefore there is no assigning square, triangle, circle or x responisbilities. 
 
-List of Deliverables for January 31st
+### List of Deliverables for January 31st
 
-Topic for the project
-ReadMe
-Reposititory Management
-Identification of Technology
-Exploratory Data Analysis (ERD)
-Mockup of Machine Learning
+* Topic for the project
+* ReadMe
+* Reposititory Management
+* Identification of Technology
+* Exploratory Data Analysis (ERD)
+* Mockup of Machine Learning
 
 ### Exploratory Data Analysis (ERD)
 
