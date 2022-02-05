@@ -1,4 +1,4 @@
-# Capstone_Project_Covid_Suicide
+# Capstone_Project_Covid_Pandemic Predictor
 
 ## Hypothesis - Theory
 Covid 19 has proven to be one of the worlds deadliest viral pandemics since the Spanish Flu in 1918.  This project is looking to see specifically in the US what could be causing more infections/deaths in specific locations in the US verus other locations in the US.  
@@ -31,7 +31,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 * pgAdmin
 * PostgreSQL
-* AWS
+* Heroku
 
 ### Machine Learning
 
@@ -44,7 +44,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 ## Segment 1: Sketch It Out
 
-The team is comprised of both Derek and Elizabeth - therefore there is no assigning square, triangle, circle or x responisbilities. 
+The team is comprised of only Derek and Elizabeth - therefore there is no assigning square, triangle, circle or x responisbilities. 
 
 ### List of Deliverables for January 31st
 
@@ -56,6 +56,8 @@ The team is comprised of both Derek and Elizabeth - therefore there is no assign
 * Mockup of Machine Learning
 
 ### Exploratory Data Analysis (ERD)
+
+![ERD](https://user-images.githubusercontent.com/90973718/152626094-d84711f8-23b6-4f57-95e3-cfc7b9b386a6.png)
 
 ### Database Storage
 
