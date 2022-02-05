@@ -33,6 +33,8 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * PostgreSQL
 * Heroku
 
+![]()
+
 ### Machine Learning
 
 * SciKitLearn 
