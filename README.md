@@ -5,8 +5,8 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * What variables have a positive co-relation to Covid-19 infected areas. 
 * Can we predict breakout areas and areas that are more vulnerable to future outbreaks
 
-* Hypothesis
-* Hypthoesis
+* H0 = that covid is an equal opportunity striker.  
+* Ha = covid outbreaks can be predicted by specific socioeconomic markers.  Allowing one to predict future viral outbreaks.  
 
 ## Data Sources
 * NY Times county level COVID19 case and fatality data
