@@ -62,4 +62,11 @@ The team is comprised of only Derek and Elizabeth - therefore there is no assign
 
 ### Database Storage
 
+![Database Dashboard](https://user-images.githubusercontent.com/90973718/152647489-d2cd4ea1-304f-4d3d-a60f-a6dcc1b3c7f0.png)
+
+![Database Query](https://user-images.githubusercontent.com/90973718/152647871-62ba2a85-ea33-4b65-9608-9291a922d70a.png)
+
+
+For our analysis  we will be using several datasets merged into one table 'Dependents'. This table includes variables such as employment, housing, income,  education, weather.  The second table will be on Covid deaths in the United States.  These two tables will be loaded into python where they will be merged into one DataFrame.  The data will further be cleaned and preprocessed and then set up for machine learning training.  
+ 
 ### Machine Learning
