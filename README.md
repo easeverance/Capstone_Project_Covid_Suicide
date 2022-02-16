@@ -133,8 +133,7 @@ Finally the data was scaled and normalized using Scikit-learn's StandardScale
 ![scale and normalize](https://user-images.githubusercontent.com/90973718/154165029-4bd086c2-afce-410c-9f96-f4def4e5551f.png)
 
 
-<br>
-</br>
+
 ### Description of data preprocessing (Unsupervised)
 
 
