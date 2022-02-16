@@ -51,6 +51,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Unsupervised Machine Learning
 * Streamlit (application)
 * Pickle (binary encoding)
+* Decision Tree Regression (ML)
 * Pandas (bulk of data cleaning)
 
 ![dashboard](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dashboard.PNG)
