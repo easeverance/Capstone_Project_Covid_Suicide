@@ -114,7 +114,7 @@ Challenges: As with any machine learning, unsupervised machine learning poses it
 
 Benefits: Since we are not sure what variables if any has an effect this model allows us to visualize with graphs to explore the data. 
 
-### Description of data preprocessing
+### Description of data preprocessing (Supervised)
 
 Data sets were merged using pandas on the column "FIPS".  Next the data was cleaned using Pandas droping any NaN's, and unnecessary columns.  
 
@@ -131,6 +131,11 @@ All NaN's were dropped from the dataset.
 Finally the data was scaled and normalized using Scikit-learn's StandardScale
 
 ![scale and normalize](https://user-images.githubusercontent.com/90973718/154165029-4bd086c2-afce-410c-9f96-f4def4e5551f.png)
+
+
+<br>
+</br>
+### Description of data preprocessing (Unsupervised)
 
 
 
