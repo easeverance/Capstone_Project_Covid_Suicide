@@ -43,9 +43,17 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 ### Dashboard
 
-* Tableau
+* Supervised Machine Learning
+* Tableau (visualization)
 * GitHub
 * SeaBorn
+
+* Unsupervised Machine Learning
+* Streamlit (application)
+* Pickle (binary encoding)
+* Pandas (bulk of data cleaning)
+
+![dashboard]()
 
 ## Segment 1: Sketch It Out
 
