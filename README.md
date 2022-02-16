@@ -92,6 +92,8 @@ For our analysis  we will be using several datasets merged into one table 'Depen
  
 ### Machine Learning
 
+Early model building using cleaning table data.
+
 
 ![lr_code](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_code.PNG)
 
