@@ -53,7 +53,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Pickle (binary encoding)
 * Pandas (bulk of data cleaning)
 
-![dashboard]()
+![dashboard](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dashboard.PNG)
 
 ## Segment 1: Sketch It Out
 
