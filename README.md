@@ -190,6 +190,10 @@ The y and y_pred values were passed using the Mean Squared Error module.
 
 ![gridsearch1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/gridsearch1.PNG)
 
+A template array was creating to use in the application. These values will be replaced using the feature selectors.
+
+![modelarray1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/modelarray1.PNG)
+
 
 
 # Third Segment: Plug It In
