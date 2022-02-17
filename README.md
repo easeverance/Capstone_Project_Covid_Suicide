@@ -184,6 +184,10 @@ Multiple max_depth parameters were created to test and score.
 Mean Squared Error scoring was used to find the mean squared errors of each parameter.
 The GridSearchCV was then fit to the values.
 
+The Best Estimator module of GridSearchCV was used to fit the values.
+Then added the predict module to the features.
+The y and y_pred values were passed using the Mean Squared Error module.
+
 ![gridsearch1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/gridsearch1.PNG)
 
 
