@@ -147,6 +147,11 @@ Also, the unnecessary rows were dropped, such as those grouped by year instead o
 
 ![unclean2](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unclean2.PNG)
 
+Functions were applied to the necessary features to create a float array.
+This will be necessary for the binary encoding transformation.
+
+![unfunc1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unfunc1.PNG)
+
 
 # Third Segment: Plug It In
 
