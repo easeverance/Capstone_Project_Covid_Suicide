@@ -194,6 +194,9 @@ A template array was creating to use in the application. These values will be re
 
 ![modelarray1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/modelarray1.PNG)
 
+The regressor model was then saved in the Pickle data file that can be opened in the prediction application.
+
+![pickle1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/pickle1.PNG)
 
 
 # Third Segment: Plug It In
