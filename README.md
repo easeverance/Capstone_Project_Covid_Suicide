@@ -137,6 +137,7 @@ Finally the data was scaled and normalized using Scikit-learn's StandardScale
 ### Description of data preprocessing (Unsupervised)
 
 The data set was cleaned by removing all columns except the necessary features and independent values.
+Column information was also renamed for better readability.
 Exploratory cleaning was also done by searching and removing all null data.
 
 ![unclean1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unclean1.PNG)
