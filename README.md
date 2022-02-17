@@ -142,6 +142,11 @@ Exploratory cleaning was also done by searching and removing all null data.
 
 ![unclean1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unclean1.PNG)
 
+The data was then checked to ensure the null values were purged. 
+Also, the unnecessary rows were dropped, such as those grouped by year instead of by month.
+
+![unclean2](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unclean2.PNG)
+
 
 # Third Segment: Plug It In
 
