@@ -152,6 +152,10 @@ This will be necessary for the binary encoding transformation.
 
 ![unfunc1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unfunc1.PNG)
 
+The state series was grouped into regional bins to provide more exploratory predictions for the app.
+
+![ungroup1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/ungroup1.PNG)
+
 
 # Third Segment: Plug It In
 
