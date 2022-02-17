@@ -160,6 +160,12 @@ The region and sex columns were fit to the encoders for binary categorizing.
 
 ![unencode1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unencode1.PNG)
 
+The commas were removed from the independent deaths data before transforming to float values.
+The X features and y independent values were assigned.
+A linear regression model was then created and the values were fit.
+
+![unlinreg1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unlinreg1.PNG)
+
 
 # Third Segment: Plug It In
 
