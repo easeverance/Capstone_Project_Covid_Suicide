@@ -166,6 +166,11 @@ A linear regression model was then created and the values were fit.
 
 ![unlinreg1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unlinreg1.PNG)
 
+Using the mean squared error module to find the difference between the actual deaths and predicted deaths.
+This error calculation was used for all machine learning models to test the accuracy against the data.
+
+![unlinreg2](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unlinreg2.PNG)
+
 
 # Third Segment: Plug It In
 
