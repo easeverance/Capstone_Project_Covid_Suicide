@@ -179,6 +179,13 @@ A Random Forest Regressor was also created, fit and predicted, which had similar
 
 ![unranfor1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unranfor1.PNG)
 
+A fit and score method of the GridSearchCV module was used on the Decision Tree Regressor.
+Multiple max_depth parameters were created to test and score.
+Mean Squared Error scoring was used to find the mean squared errors of each parameter.
+The GridSearchCV was then fit to the values.
+
+![gridsearch1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/gridsearch1.PNG)
+
 
 
 # Third Segment: Plug It In
