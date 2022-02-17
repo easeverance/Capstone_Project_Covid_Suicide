@@ -171,6 +171,15 @@ This error calculation was used for all machine learning models to test the accu
 
 ![unlinreg2](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unlinreg2.PNG)
 
+A Decision Tree Regressor was fit and predicted against the values, which had improved accuracy versus the Linear Regression model.
+
+![undectree1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/undectree1.PNG)
+
+A Random Forest Regressor was also created, fit and predicted, which had similar accuracy to the Decision Tree.
+
+![unranfor1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unranfor1.PNG)
+
+
 
 # Third Segment: Plug It In
 
