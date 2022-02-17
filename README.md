@@ -156,6 +156,10 @@ The state series was grouped into regional bins to provide more exploratory pred
 
 ![ungroup1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/ungroup1.PNG)
 
+The region and sex columns were fit to the encoders for binary categorizing. 
+
+![unencode1](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/unencode1.PNG)
+
 
 # Third Segment: Plug It In
 
