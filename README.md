@@ -201,7 +201,16 @@ The regressor model was then saved in the Pickle data file that can be opened in
 
 # Third Segment: Plug It In
 
-## Machine Learning Model
+During the 3rd Segment of the capstone project we are adding the final touches and plugging the data into our models to see where we are at.  
+
+# Summary & Conclusion
+
+The results of the machine learning confirmed most of what we have already learned about the covid pandemic: people who live in more populated areas, have limited English, live in multi-unit housing, lower income levels are more inclined die from covid and be affected from future outbreaks. Those who live in less populated areas and have obtained higher education are less likely to affected by the virus or future pandemics. 
+
+![heatmap supervised learning](https://user-images.githubusercontent.com/90973718/156273224-65104f85-ca1d-4815-9525-1b5baf346b54.png)
+
+
+https://docs.google.com/presentation/d/1llWIpjVPxFYgyfi3QGZCrpzqbH43CRMLmmlway6LdCc/edit?usp=sharing
 
 
 
