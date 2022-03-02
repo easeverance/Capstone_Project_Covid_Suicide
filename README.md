@@ -209,8 +209,8 @@ The results of the machine learning confirmed most of what we have already learn
 
 ![heatmap supervised learning](https://user-images.githubusercontent.com/90973718/156273224-65104f85-ca1d-4815-9525-1b5baf346b54.png)
 
-
 https://docs.google.com/presentation/d/1llWIpjVPxFYgyfi3QGZCrpzqbH43CRMLmmlway6LdCc/edit?usp=sharing
+
 
 
 
