@@ -93,6 +93,8 @@ The team is comprised of only Derek and Elizabeth - therefore there is no assign
 
 ![Database Query](https://user-images.githubusercontent.com/90973718/152647871-62ba2a85-ea33-4b65-9608-9291a922d70a.png)
 
+### Database Server-side
+
 ![heroku_server](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/heroku_server.PNG)
 
 ### Database Schema
