@@ -48,7 +48,7 @@ Creating the Logistic Regression model and scaler. Fitting, Predicting, and the 
 ![lr_modelpic](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_pic.PNG)
 <br></br>
 Creating the Ridge Regression Penalty to help Generalize the model (train vs test) for better accuracy.
-![l2_ridge]()
+![l2_ridge](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/l2_ridge.PNG)
 
 ### Supervised Machine Learning
 
