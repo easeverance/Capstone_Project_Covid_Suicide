@@ -16,8 +16,11 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * NY Times county level COVID19 case and fatality data
 * USDA Economic Research Service
   * Unemploment and median household income for US, States, and counties 2000-20
+   * [Dataset Link](https://www.ers.usda.gov/webdocs/DataFiles/48747/Unemployment.xls)
   * Educational attainment for US, States, Counties 1970-2019
-  * Population estimates for the US, States and Counties 2010 - 2020  
+  * [Dataset Link](https://www.ers.usda.gov/webdocs/DataFiles/48747/Education.xls)
+  * Population estimates for the US, States and Counties 2010 - 2020
+  * [Dataset Link](https://www.census.gov/programs-surveys/popest/technical-documentation/research/evaluation-estimates/2020-evaluation-estimates/2010s-counties-total.html)  
 * Covid-19 Deaths in the US Dataset - Edward Zhang
   * [Dataset Link](https://www.kaggle.com/sshikamaru/covid19-deaths-in-the-us)
 
@@ -130,7 +133,7 @@ Challenges: As with any machine learning, unsupervised machine learning poses it
 
 Benefits: Since we are not sure what variables if any has an effect this model allows us to visualize with graphs to explore the data. 
 
-### Description of data preprocessing (Supervised)
+## Description of data preprocessing (Supervised)
 
 Data sets were merged using pandas on the column "FIPS".  Next the data was cleaned using Pandas droping any NaN's, and unnecessary columns.  
 
@@ -150,7 +153,7 @@ Finally the data was scaled and normalized using Scikit-learn's StandardScale
 
 
 
-### Description of data preprocessing (Unsupervised)
+## Description of data preprocessing (Unsupervised)
 
 The data set was cleaned by removing all columns except the necessary features and independent values.
 Column information was also renamed for better readability.
@@ -219,7 +222,7 @@ The regressor model was then saved in the Pickle data file that can be opened in
 
 During the 3rd Segment of the capstone project we are adding the final touches and plugging the data into our models to see where we are at.  
 
-# Summary & Conclusion
+## Summary & Conclusion
 
 The results of the machine learning confirmed most of what we have already learned about the covid pandemic: people who live in more populated areas, have limited English, live in multi-unit housing, lower income levels are more inclined die from covid and be affected from future outbreaks. Those who live in less populated areas and have obtained higher education are less likely to affected by the virus or future pandemics. 
 
