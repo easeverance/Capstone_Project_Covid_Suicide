@@ -100,15 +100,6 @@ The team is comprised of only Derek and Elizabeth - therefore there is no assign
 
 For our analysis  we will be using several datasets merged into one table 'Dependents'. This table includes variables such as employment, housing, income,  education, weather.  The second table will be on Covid deaths in the United States.  These two tables will be loaded into python where they will be merged into one DataFrame.  The data will further be cleaned and preprocessed and then set up for machine learning training.  
  
-### Machine Learning
-
-Early model building using cleaning table data.
-
-
-![lr_code](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_code.PNG)
-
-
-![model](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/Capture.PNG)
 
 Above you can see a sample machine learning taking one variable to test against covid deaths. Here the variable English-Speaker shows that there is not a correlation to the the number of deaths.  However, we are able to see that data needs to be cleaned more for specific FIPS areas in KSC and NYC.  These dependents caused outlier points.  Additional dependents will be added to the regression to get a better understanding of what factors can be used as predictors. 
 
