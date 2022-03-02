@@ -43,7 +43,8 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 ## Machine Learning
 
-* Unsupervised Machine Learning
+### Unsupervised Machine Learning
+![lr_modelpic]()
 * Supervised Machine Learning
 
 ## Dashboard
