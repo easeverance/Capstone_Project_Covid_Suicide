@@ -117,7 +117,7 @@ Above you can see a sample machine learning taking one variable to test against 
 
 # Segment Three: Build the Pieces
 
-## Machine Learning Model
+## Machine Learning Selection (In-Depth)
 
 ### Model Choice: Limitations and Benefits
 
