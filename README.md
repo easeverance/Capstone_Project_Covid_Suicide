@@ -42,6 +42,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Numpy
 * SASPy
 * Sci-kit Learn
+* Pickle
 * Scipy
 * Seaborn
 
