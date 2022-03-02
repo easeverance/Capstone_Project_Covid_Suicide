@@ -15,6 +15,8 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
   * Unemploment and median household income for US, States, and counties 2000-20
   * Educational attainment for US, States, Counties 1970-2019
   * Population estimates for the US, States and Counties 2010 - 2020  
+* Covid-19 Deaths in the US Dataset - Edward Zhang
+  * [Dataset Link](https://www.kaggle.com/sshikamaru/covid19-deaths-in-the-us)
  
 
 ## Technology Used
