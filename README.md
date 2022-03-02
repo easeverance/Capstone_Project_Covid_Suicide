@@ -17,6 +17,10 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
   * Population estimates for the US, States and Counties 2010 - 2020  
 * Covid-19 Deaths in the US Dataset - Edward Zhang
   * [Dataset Link](https://www.kaggle.com/sshikamaru/covid19-deaths-in-the-us)
+
+### Cleaned Data
+* appdata_clean.ipynb - Jupyter Notebook Cleaning Pipeline (Resources)
+* covid19.csv - Cleaned Data for Prediction Dashboard (Resources)
  
 
 ## Technology Used
