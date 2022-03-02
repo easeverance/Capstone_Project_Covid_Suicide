@@ -9,6 +9,9 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * H0 = that covid is an equal opportunity striker.  
 * Ha = covid outbreaks can be predicted by specific socioeconomic markers.  Allowing one to predict future viral outbreaks.  
 
+### Google Slides Hypothesis Presentation
+[Presentation Link](https://docs.google.com/presentation/d/1llWIpjVPxFYgyfi3QGZCrpzqbH43CRMLmmlway6LdCc/edit?usp=sharing)
+
 ## Data Sources
 * NY Times county level COVID19 case and fatality data
 * USDA Economic Research Service
