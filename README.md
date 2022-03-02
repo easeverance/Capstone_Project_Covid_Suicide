@@ -28,7 +28,11 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Google Collab
 * Matplotlib
 * Pandas
+* Numpy
 * SASPy
+* Sci-kit Learn
+* Scipy
+* Seaborn
 
 ### Database Storage
 
