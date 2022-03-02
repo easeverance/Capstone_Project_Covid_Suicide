@@ -54,7 +54,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Decision Tree Regression (ML)
 * Pandas (bulk of data cleaning)
 
-![dashboard]()
+![dashboard](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dash_b.PNG)
 
 ## Segment 1: Sketch It Out
 
