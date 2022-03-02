@@ -42,14 +42,9 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Supervised Machine Learning
 
 ### Dashboard
-
-* Supervised Machine Learning
-* Tableau (visualization)
-* GitHub
-* SeaBorn
-<br></br>
 * Unsupervised Machine Learning
 * Streamlit (application)
+* GitHub
 * Pickle (binary encoding)
 * Logistic Regression (ML)
 * Ridge Regression Generalization
