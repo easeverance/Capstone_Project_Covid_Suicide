@@ -46,7 +46,11 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 ### Unsupervised Machine Learning
 Creating the Logistic Regression model and scaler. Fitting, Predicting, and the creation of test and train sets take place.
 ![lr_modelpic](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_pic.PNG)
-* Supervised Machine Learning
+<br></br>
+Creating the Ridge Regression Penalty to help Generalize the model (train vs test) for better accuracy.
+![l2_ridge]()
+
+### Supervised Machine Learning
 
 ## Dashboard
 
