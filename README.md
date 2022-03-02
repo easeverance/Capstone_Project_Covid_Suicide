@@ -40,15 +40,15 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * PostgreSQL
 * Heroku
 
-![heroku_server](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/heroku_server.PNG)
 
-### Machine Learning
+## Machine Learning
 
 * Unsupervised Machine Learning
 * Supervised Machine Learning
 
-### Dashboard
-* Unsupervised Machine Learning
+## Dashboard
+
+### Unsupervised Machine Learning
 * Streamlit (application)
 * GitHub
 * Pickle (binary encoding)
@@ -73,6 +73,10 @@ The team is comprised of only Derek and Elizabeth - therefore there is no assign
 * Exploratory Data Analysis (ERD)
 * Mockup of Machine Learning
 
+
+
+## Database Structure
+
 ### Exploratory Data Analysis (ERD)
 
 ![ERD](https://user-images.githubusercontent.com/90973718/152626094-d84711f8-23b6-4f57-95e3-cfc7b9b386a6.png)
@@ -82,6 +86,8 @@ The team is comprised of only Derek and Elizabeth - therefore there is no assign
 ![Database Dashboard](https://user-images.githubusercontent.com/90973718/152647489-d2cd4ea1-304f-4d3d-a60f-a6dcc1b3c7f0.png)
 
 ![Database Query](https://user-images.githubusercontent.com/90973718/152647871-62ba2a85-ea33-4b65-9608-9291a922d70a.png)
+
+![heroku_server](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/heroku_server.PNG)
 
 ### Database Schema
 
