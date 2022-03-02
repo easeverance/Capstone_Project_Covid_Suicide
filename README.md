@@ -14,7 +14,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 ## Data Sources
 * NY Times county level COVID19 case and fatality data
-* [Dataset Link](https://github.com/nytimes/covid-19-data)
+ * [Dataset Link](https://github.com/nytimes/covid-19-data)
 * USDA Economic Research Service
   * Unemploment and median household income for US, States, and counties 2000-20
    * [Dataset Link](https://www.ers.usda.gov/webdocs/DataFiles/48747/Unemployment.xls)
