@@ -44,7 +44,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 ## Machine Learning
 
 ### Unsupervised Machine Learning
-![lr_modelpic]()
+![lr_modelpic](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_pic.PNG)
 * Supervised Machine Learning
 
 ## Dashboard
