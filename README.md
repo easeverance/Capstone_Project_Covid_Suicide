@@ -51,7 +51,8 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Unsupervised Machine Learning
 * Streamlit (application)
 * Pickle (binary encoding)
-* Decision Tree Regression (ML)
+* Logistic Regression (ML)
+* Ridge Regression Generalization
 * Pandas (bulk of data cleaning)
 
 [Dashboard Link](https://covidappproject.herokuapp.com/)
