@@ -9,7 +9,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * H0 = that covid is an equal opportunity striker.  
 * Ha = covid outbreaks can be predicted by specific socioeconomic markers.  Allowing one to predict future viral outbreaks.  
 
-### Google Slides Hypothesis Presentation
+### Google Slides Presentation
 [Presentation Link](https://docs.google.com/presentation/d/1llWIpjVPxFYgyfi3QGZCrpzqbH43CRMLmmlway6LdCc/edit?usp=sharing)
 
 ## Data Sources
@@ -53,30 +53,7 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 * Heroku
 
 
-## Machine Learning
 
-### Supervised Machine Learning
-Creating the Logistic Regression model and scaler. Fitting, Predicting, and the creation of test and train sets take place.
-![lr_modelpic](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_pic.PNG)
-<br></br>
-Creating the Ridge Regression Penalty to help Generalize the model (train vs test) for better accuracy.
-![l2_ridge](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/l2_ridge.PNG)
-
-
-
-## Dashboard
-
-### Supervised Machine Learning
-* Streamlit (application)
-* GitHub
-* Pickle (binary encoding)
-* Logistic Regression (ML)
-* Ridge Regression Generalization
-* Pandas (bulk of data cleaning)
-
-[Dashboard Link](https://covidappproject.herokuapp.com/)
-
-![dashboard](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dash_b.PNG)
 
 ## Segment 1: Sketch It Out
 
@@ -222,7 +199,32 @@ The regressor model was then saved in the Pickle data file that can be opened in
 
 # Third Segment: Plug It In
 
-During the 3rd Segment of the capstone project we are adding the final touches and plugging the data into our models to see where we are at.  
+During the 3rd Segment of the capstone project we are adding the final touches and plugging the data into our models to see where we are at. 
+
+## Machine Learning
+
+### Supervised Machine Learning
+Creating the Logistic Regression model and scaler. Fitting, Predicting, and the creation of test and train sets take place.
+![lr_modelpic](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_pic.PNG)
+<br></br>
+Creating the Ridge Regression Penalty to help Generalize the model (train vs test) for better accuracy.
+![l2_ridge](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/l2_ridge.PNG)
+
+
+
+## Dashboard
+
+### Supervised Machine Learning
+* Streamlit (application)
+* GitHub
+* Pickle (binary encoding)
+* Logistic Regression (ML)
+* Ridge Regression Generalization
+* Pandas (bulk of data cleaning)
+
+[Dashboard Link](https://covidappproject.herokuapp.com/)
+
+![dashboard](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/dash_b.PNG)
 
 ## Summary & Conclusion
 
