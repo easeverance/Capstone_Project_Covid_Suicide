@@ -55,18 +55,18 @@ Covid 19 has proven to be one of the worlds deadliest viral pandemics since the 
 
 ## Machine Learning
 
-### Unsupervised Machine Learning
+### Supervised Machine Learning
 Creating the Logistic Regression model and scaler. Fitting, Predicting, and the creation of test and train sets take place.
 ![lr_modelpic](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/lr_model_pic.PNG)
 <br></br>
 Creating the Ridge Regression Penalty to help Generalize the model (train vs test) for better accuracy.
 ![l2_ridge](https://github.com/easeverance/Capstone_Project_Covid_Suicide/blob/main/markdownpics/l2_ridge.PNG)
 
-### Supervised Machine Learning
+
 
 ## Dashboard
 
-### Unsupervised Machine Learning
+### Supervised Machine Learning
 * Streamlit (application)
 * GitHub
 * Pickle (binary encoding)
@@ -135,7 +135,7 @@ Challenges: As with any machine learning, unsupervised machine learning poses it
 
 Benefits: Since we are not sure what variables if any has an effect this model allows us to visualize with graphs to explore the data. 
 
-## Description of data preprocessing (Supervised)
+## Description of data preprocessing (Unsupervised)
 
 Data sets were merged using pandas on the column "FIPS".  Next the data was cleaned using Pandas droping any NaN's, and unnecessary columns.  
 
@@ -155,7 +155,7 @@ Finally the data was scaled and normalized using Scikit-learn's StandardScale
 
 
 
-## Description of data preprocessing (Unsupervised)
+## Description of data preprocessing (Supervised)
 
 The data set was cleaned by removing all columns except the necessary features and independent values.
 Column information was also renamed for better readability.
